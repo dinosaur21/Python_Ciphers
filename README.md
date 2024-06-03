@@ -22,7 +22,7 @@
 
 ### RAIL FENCE CIPHER
 - It is a transposition cipher where letters are placed in zig zag fashion in a matrix with 'key' rows.
-- - Final result is letters read from left to right starting from 1st row.
+- Final result is letters read from left to right starting from 1st row.
   
   <img width="800" height="300" alt="Screenshot 2024-06-03 at 6 58 25 PM" src="https://github.com/dinosaur21/PYTHON_CIPHERS/assets/140154294/9788889f-9a21-4f86-841d-09b07f7d3b2e">
 
