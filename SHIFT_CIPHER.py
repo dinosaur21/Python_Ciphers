@@ -1,4 +1,6 @@
 #shift cipher
+#for CAESAR_CIPHER enter the shift as 3
+
 
 def encrypt(text, s):
     result = []
