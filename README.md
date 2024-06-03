@@ -8,5 +8,5 @@
   encrypted text: ASCII(h) + 5 = m
 - For decryption it subtracts the shift amount from the character and goes in reverse direction in the alphabet.
 - For caesar cipher , substitute shift = 3
-<img width="550" alt="Screenshot 2024-06-03 at 6 45 19 PM" src="https://github.com/dinosaur21/PYTHON_CIPHERS/assets/140154294/7ff4602f-af27-4ce8-8fc2-ed9399ecd210">
+<img width="300" height="300" alt="Screenshot 2024-06-03 at 6 45 19 PM" src="https://github.com/dinosaur21/PYTHON_CIPHERS/assets/140154294/7ff4602f-af27-4ce8-8fc2-ed9399ecd210">
 
