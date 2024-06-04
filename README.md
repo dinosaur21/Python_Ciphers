@@ -1,4 +1,4 @@
-# PYTHON_CIPHERS
+# PYTHON_CIPHERS 🦕
 
 ## SHIFT CIPHER
 - It takes input text and shift amount(number) and replaces each character with the character in the alphabet which is obtained after going forward 'shift' times (adding the shift amount)
